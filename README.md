@@ -17,4 +17,4 @@ Süvenen praegu küberturbesse ja infoturbe valdkonda
 `Windows Server` `Linux` `Zabbix` `OPNSense` `PiHole` `Metasploit` `Ansible` `Docker` `Kubernetes` `MikroTik` `Python` `HTML/CSS` `PHP` `MySQL` `PowerShell` `CAD` `Krüptograafia`
 
 ### 🌍 Rahvusvaheline kogemus
-🇪🇸 Hispaania — AKIAI S.L.U · 🇮🇪 Iirimaa — Mayo College of Further Education & Training · 🇪🇪 Eesti — Forus Security
+🇪🇸 Hispaania — AKIAI S.L.U • 🇮🇪 Iirimaa — Mayo College of Further Education & Training • 🇪🇪 Eesti — Forus Security
