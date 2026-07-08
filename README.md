@@ -1,5 +1,5 @@
 <h1 align="center">Tere, olen Stever 👋</h1>
-<p align="center">IT-süsteemide nooremspetsialist Eestist → infoturbe suund</p>
+<p align="center">IT-süsteemide nooremspetsialist → infoturbe suund</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
