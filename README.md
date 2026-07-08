@@ -21,5 +21,5 @@ Süvenen praegu küberturbesse ja infoturbe valdkonda
 🇪🇸 Hispaania — MikroTik/võrgud · 🇮🇪 Iirimaa — IT-tugi · 🇪🇪 Eesti — Forus Security (AD/MFA)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SINU_KASUTAJANIMI&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stevver&show_icons=true&theme=dark" />
 </p>
