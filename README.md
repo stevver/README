@@ -8,18 +8,13 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/>
 </p>
 
 ### 🔭 Praegu
 Süvenen praegu küberturbesse ja infoturbe valdkonda
 
 ### 🛠️ Tööriistad ja tehnoloogiad
-`Windows Server` `Linux` `Proxmox` `VirtualBox` `Zabbix` `Wazuh` `OPNSense` `PiHole` `Metasploit` `Ansible` `Docker` `Kubernetes` `MikroTik`
+`Windows Server` `Linux` `Zabbix` `OPNSense` `PiHole` `Metasploit` `Ansible` `Docker` `Kubernetes` `MikroTik` `Python` `HTML/CSS` `PHP` `MySQL` `PowerShell` `CAD` `Krüptograafia`
 
 ### 🌍 Rahvusvaheline kogemus
-🇪🇸 Hispaania — MikroTik/võrgud · 🇮🇪 Iirimaa — IT-tugi · 🇪🇪 Eesti — Forus Security (AD/MFA)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevver&show_icons=true&theme=dark" />
-</p>
+🇪🇸 Hispaania — AKIAI S.L.U · 🇮🇪 Iirimaa — Mayo College of Further Education & Training · 🇪🇪 Eesti — Forus Security
